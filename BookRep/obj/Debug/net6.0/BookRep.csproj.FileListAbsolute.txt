@@ -1,0 +1,11 @@
+C:\Users\Bruger\source\repos\BookRep\BookRep\bin\Debug\net6.0\BookRep.deps.json
+C:\Users\Bruger\source\repos\BookRep\BookRep\bin\Debug\net6.0\BookRep.dll
+C:\Users\Bruger\source\repos\BookRep\BookRep\bin\Debug\net6.0\BookRep.pdb
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\BookRep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\BookRep.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\BookRep.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\BookRep.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\BookRep.dll
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\refint\BookRep.dll
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\BookRep.pdb
+C:\Users\Bruger\source\repos\BookRep\BookRep\obj\Debug\net6.0\ref\BookRep.dll
